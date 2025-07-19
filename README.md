@@ -1,6 +1,6 @@
 # Build a Voice-to-Text Transcription App with Whisper and React Native
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/687b1ce8bf43dc2f985e5df5/build-a-voicetotext-transcription-app-with-whisper-and-react-native).
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
